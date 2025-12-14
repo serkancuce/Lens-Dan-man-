@@ -1,0 +1,5 @@
+{
+  "name": "Optician's Lens Advisor",
+  "description": "A comprehensive platform for opticians to recommend the most suitable eyeglass lenses to customers based on their prescription, lifestyle, and needs. It features a detailed product database from leading brands and an intelligent recommendation engine.",
+  "requestFramePermissions": []
+}
